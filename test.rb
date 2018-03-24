@@ -1,1 +1,1 @@
-puts "Hello Devil Kalyan!"
+puts "Hello Kalyan!"
